@@ -1,0 +1,7 @@
+pynput==1.7.6
+Pillow==10.2.0
+requests==2.31.0
+PyQt6==6.6.1
+python-dotenv==1.0.1
+openai==1.12.0
+pyobjc-framework-Quartz==10.1
